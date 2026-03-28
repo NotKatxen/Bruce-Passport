@@ -39,8 +39,8 @@ Your pet doesn’t eat kibble—it eats data. 📶 By scanning nearby WiFi netwo
 🛠️ Technical Specifications ⚙️
 Feature       | Detail
 ------------- | ---------------------------------------
-Language      | JavaScript (Espruino / M.JS) ⌨️
-Runtime       | Espruino Engine ⚡️
+Language      | JavaScript (es5) ⌨️
+Runtime       | Bruce Frimware
 Storage       | Internal Flash (via storage module) 📂
 I/O           | Supports Display, Keyboard, and WiFi modules 🔧
 Format        | JSON-based flat-file database (passport.json) 📝
@@ -51,15 +51,14 @@ Format        | JSON-based flat-file database (passport.json) 📝
 - Auto-Save 🍩: Automatically saves after every successful meal.
 
 🚀 Quick Installation
-1. Ensure your board is running Espruino.
-2. Open the Espruino Web IDE.
-3. Copy the code from passport.js into the editor.
-4. Click Upload to Flash.
-5. Enjoy your new digital companion! 🐬💨
+1. Ensure you are using Bruce Firmware
+2. Open the Bruce Web UI
+3. Put the code into the chosen directory
+4. Enjoy your new digital companion! 🐬💨
 
 🤝 Contributing
 - Have ideas for new "foods" (Bluetooth? Sub-GHz?) or more complex emotions?
 - Fork the repo and submit a PR!
 - Let’s build the best JS-based cyber-pet together. 🌟
 
-Inspired by the Flipper Zero. Built for the community. 🤘
+Inspired by the Flipper Zero Passport. Built for the community. 🤘
