@@ -1,5 +1,7 @@
 🦈 Bruce-Passport 📟
 
+NOTE: DONT PUT THIS AS A STARTER APP GONNA FIX SOME BUGS SOON
+
 The Ultimate WiFi-Consuming Virtual Pet for Microcontrollers 🌌
 
 Flipper-JS-Passport is a feature-rich, persistent digital companion inspired by the iconic Flipper Zero Passport system. Written in JavaScript for the Espruino ecosystem, this project transforms your development board (ESP32, M5Stack, Cardputer) into a living, breathing "Tamagotchi-for-hackers." 🦾✨
